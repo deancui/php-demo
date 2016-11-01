@@ -1,1 +1,1 @@
-<? print ‘si guniang mountain’; ?>
+<? print ‘gong ga mountain’; ?>
