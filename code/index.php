@@ -1,1 +1,2 @@
-<? print ‘gong ga mountain’; ?>
+<? print ‘gong ga mountaina’; ?>
+
